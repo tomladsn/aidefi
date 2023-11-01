@@ -1,0 +1,313 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+
+.desktop-1 {
+  background: linear-gradient(to left, #eaebed, #eaebed),
+    linear-gradient(to left, #f2f1f2, #f2f1f2);
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-160159941-40400047301-3-1-3 {
+  width: 1500px;
+  height: 931px;
+  position: absolute;
+  left: 0px;
+  top: 54px;
+}
+
+.rectangle-19 {
+  position: absolute;
+  left: 0px;
+  top: 678px;
+  overflow: visible;
+}
+
+.rectangle-20 {
+  position: absolute;
+  left: 0px;
+  top: 937px;
+  overflow: visible;
+}
+
+.rectangle-21 {
+  position: absolute;
+  left: 721px;
+  top: 37px;
+  overflow: visible;
+}
+
+.home {
+  color: #000000;
+  text-align: center;
+  font: 600 14px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 746px;
+  top: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.about {
+  color: #000000;
+  text-align: left;
+  font: 600 14px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 913px;
+  top: 38px;
+}
+
+.tokenomics {
+  color: #000000;
+  text-align: left;
+  font: 600 14px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 1070px;
+  top: 38px;
+}
+
+.rectangle-6 {
+  background: #e59b59;
+  border-radius: 13px;
+  border-style: solid;
+  border-color: #e59b59;
+  border-width: 1px;
+  width: 125.37px;
+  height: 30.95px;
+  position: absolute;
+  left: 1230.2px;
+  top: 30.05px;
+}
+
+.signup {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px "Inria Serif", sans-serif;
+  position: absolute;
+  left: 1274px;
+  top: 37px;
+}
+
+.of-the-printing-and-typesetting-industry {
+  color: #000000;
+  text-align: left;
+  font: 700 55px "Inria Sans", sans-serif;
+  position: absolute;
+  left: 151px;
+  top: 157px;
+  width: 641px;
+  height: 84px;
+}
+
+.pesetting-industry-lorem-ipsum-has-been-the-industry-s-standard {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Inika", sans-serif;
+  position: absolute;
+  left: 151px;
+  top: 298px;
+  width: 481px;
+}
+
+.text {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 149px;
+  top: 192px;
+}
+
+.lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s-when-an-unknown-printer-took-a-galley-of-type-and-scrambled-it-to-make-a-type-specimen {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inika", sans-serif;
+  position: absolute;
+  left: 151px;
+  top: 354px;
+  width: 590px;
+}
+
+.why-do-we-use-it {
+  color: #ffffff;
+  text-align: left;
+  font: 700 32px "Inria Sans", sans-serif;
+  position: absolute;
+  left: 162px;
+  top: 807px;
+  width: 289px;
+  height: 25px;
+}
+
+.looking-at-its-layout-the-point-of-using-lorem-ipsum-is-that-it-has-a-more-or-less-normal-distribution-of-letters-as-opposed-to-using-content-here-content-here-making-it-look-like-readable-english {
+  color: #ffffff;
+  text-align: left;
+  font: 400 11px "Inika", sans-serif;
+  position: absolute;
+  left: 162px;
+  top: 846px;
+  width: 382px;
+}
+
+.looking-at-its-layout {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 192px;
+  top: 912px;
+}
+
+.rectangle-12 {
+  border-radius: 0px;
+  position: absolute;
+  left: 162px;
+  top: 893px;
+  overflow: visible;
+}
+
+.looking-at-its-layout2 {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 187px;
+  top: 920px;
+}
+
+.rectangle-13 {
+  background: #e8a063;
+  border-radius: 21px 26px 39px 21px;
+  border-style: solid;
+  border-color: #e8a063;
+  border-width: 1px;
+  width: 326px;
+  height: 59px;
+  position: absolute;
+  left: 719px;
+  top: 893px;
+}
+
+.rectangle-14 {
+  background: #e8a063;
+  border-radius: 21px 26px 39px 21px;
+  border-style: solid;
+  border-color: #e8a063;
+  border-width: 1px;
+  width: 305px;
+  height: 59px;
+  position: absolute;
+  left: 1091px;
+  top: 893px;
+}
+
+.why {
+  color: #ffffff;
+  text-align: left;
+  font: 700 32px "Inria Sans", sans-serif;
+  position: absolute;
+  left: 799px;
+  top: 807px;
+  width: 109px;
+  height: 26px;
+}
+
+.looking-at-its-layout-the-point-of-using-lorem-ipsum-is-that-it-has-a-more-or-less-normal-distribution {
+  color: #ffffff;
+  text-align: left;
+  font: 400 13px "Inika", sans-serif;
+  position: absolute;
+  left: 746px;
+  top: 842px;
+  width: 271px;
+}
+
+.lorem-ipsum {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Inria Sans", sans-serif;
+  position: absolute;
+  left: 1150px;
+  top: 794px;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-fusce-iaculis-orci-a-ullamcorper-tempus {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inika", sans-serif;
+  position: absolute;
+  left: 1111px;
+  top: 846px;
+  width: 299px;
+  height: 35px;
+}
+
+.rectangle-22 {
+  background: #e9a268;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #e9a268;
+  border-width: 1px;
+  width: 103px;
+  height: 38px;
+  position: absolute;
+  left: 503px;
+  top: 909px;
+}
+
+.click {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 538px;
+  top: 920px;
+}
+
+.looking-at-its-layout3 {
+  text-align: left;
+  font: 400 15px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 177px;
+  top: 889px;
+}
+
+.looking-at-its-layout-3-span {
+  color: #000000;
+  font: 400 15px "Inknut Antiqua", sans-serif;
+}
+
+.looking-at-its-layout-3-span2 {
+  color: #ffffff;
+  font: 400 15px "Inknut Antiqua", sans-serif;
+}
+
+.bilateral-covinction-with-exclusivit {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 767px;
+  top: 915px;
+}
+
+.bilateral-covinction-with-exclusivit2 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12px "Inknut Antiqua", sans-serif;
+  position: absolute;
+  left: 1129px;
+  top: 909px;
+}
+
+.capture-1 {
+  width: 199px;
+  height: 49px;
+  position: absolute;
+  left: 146px;
+  top: 32px;
+}
